@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <p><img align="center" alt="DEVOPS" width="100" src="https://i.pinimg.com/originals/f0/2f/c3/f02fc3aed73d467bcd5a9acd046b45da.gif"></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyabd&show_icons=true&locale=en&layout=compact" alt="divyabd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subramaniyamsankaravel&show_icons=true&locale=en&layout=compact" alt="subramaniyamsankaravel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyabd&show_icons=true&locale=en" alt="divyabd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subramaniyamsankaravel&show_icons=true&locale=en" alt="subramaniyamsankaravel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subramaniyamsankaravel&" alt="subramaniyamsankaravel" /></p>
