@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💬 Ask me about - Devops and Cloud
+📫 How to reach me: subramaniyam11981@gmail.com
+
+#connect with me
+
+https://www.linkedin.com/in/subramaniyam-sankaravel-0a353213a
+
+#Languages and tools
+
+terraform sonarqube jfrog aws azure bash  docker git jenkins kubernetes linux mysql windows azuredevops docker
+
+
