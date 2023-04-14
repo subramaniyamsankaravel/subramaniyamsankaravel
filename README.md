@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨‍💻 All of my projects are available at https://github.com/subramaniyamsankaravel
+👨‍💻 All of my projects are available at **https://github.com/subramaniyamsankaravel**
 
-💬 Ask me about - Devops and Cloud
+💬 Ask me about - **Devops and Cloud**
 
-📫 How to reach me: subramaniyam11981@gmail.com
+📫 How to reach me: **subramaniyam11981@gmail.com**
 
-⚡ Fun fact: Love and value your ownself
+⚡ Fun fact: ***Love and value your ownself***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
